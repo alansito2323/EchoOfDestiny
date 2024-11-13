@@ -1,5 +1,8 @@
 FROM php:8.0-apache
 
+# Instala la extensión mysqli
+RUN docker-php-ext-install mysqli
+
 # Cambia la configuración de Apache para escuchar en el puerto 8080
 RUN sed -i 's/80/8080/g' /etc/apache2/ports.conf /etc/apache2/sites-available/000-default.conf
 
