@@ -191,7 +191,7 @@
     </div>
     <div class="item">
       <ul>
-        <li><img src="assets/images/game-01.jpg" alt="" class="templatemo-item"></li>
+        <li><img src="assets/images/Level11.png" alt="" class="templatemo-item"></li>
         <li><h4>Level 1</h4><span>Seal Runes</span></li>
         <li><h4>Environment</h4><span>Ancient Temple Ruins</span></li>
         <li><h4>Objective</h4><span>Unlock the Hidden Runes</span></li>
@@ -202,7 +202,7 @@
     </div>
     <div class="item">
       <ul>
-        <li><img src="assets/images/game-02.jpg" alt="" class="templatemo-item"></li>
+        <li><img src="assets/images/Level22.png" alt="" class="templatemo-item"></li>
         <li><h4>Level 2</h4><span>Dark Forests</span></li>
         <li><h4>Environment</h4><span>Mysterious Dark Forest</span></li>
         <li><h4>Objective</h4><span>Find the Hidden Path</span></li>
@@ -212,7 +212,7 @@
     </div>
     <div class="item last-item">
       <ul>
-        <li><img src="assets/images/game-03.jpg" alt="" class="templatemo-item"></li>
+        <li><img src="assets/images/Level33.png" alt="" class="templatemo-item"></li>
         <li><h4>Level 3</h4><span>Tower of the Traitors</span></li>
         <li><h4>Environment</h4><span>Ancient Tower</span></li>
         <li><h4>Objective</h4><span>Defeat the Boss</span></li>
