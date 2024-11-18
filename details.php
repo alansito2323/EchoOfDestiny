@@ -75,7 +75,7 @@
                     </div>
 
                     <div class="thumb">
-                      <img src="assets/images/Level33.png" alt="" style="border-radius: 23px; margin-bottom: 10px; margin-right: 0;">
+                      <img src="assets/images/Level3.png" alt="" style="border-radius: 23px; margin-bottom: 10px; margin-right: 0;">
                     </div>
                   </div>
 
