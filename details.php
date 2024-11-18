@@ -67,9 +67,18 @@
                   </div>
                   <div class="col-lg-8">
                     <div class="thumb">
-                      <img src="assets/images/feature-right.jpg" alt="" style="border-radius: 23px;">
+                      <img src="assets/images/Level1.png" alt="" style="border-radius: 23px; margin-bottom: 10px; margin-right: 10px;">
+                    </div>
+
+                    <div class="thumb">
+                      <img src="assets/images/Level2.png" alt="" style="border-radius: 23px; margin-bottom: 10px; margin-right: 10px;">
+                    </div>
+
+                    <div class="thumb">
+                      <img src="assets/images/Level33.png" alt="" style="border-radius: 23px; margin-bottom: 10px; margin-right: 0;">
                     </div>
                   </div>
+
                 </div>
               </div>
             </div>
