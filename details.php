@@ -115,13 +115,13 @@
                       </div>
                     </div>
                     <div class="col-lg-4">
-                      <img src="assets/images/details-01.jpg" alt="" style="border-radius: 23px; margin-bottom: 30px;">
+                      <img src="assets/images/Level11.jpg" alt="" style="border-radius: 23px; margin-bottom: 30px;">
                     </div>
                     <div class="col-lg-4">
-                      <img src="assets/images/details-02.jpg" alt="" style="border-radius: 23px; margin-bottom: 30px;">
+                      <img src="assets/images/Level22.jpg" alt="" style="border-radius: 23px; margin-bottom: 30px;">
                     </div>
                     <div class="col-lg-4">
-                      <img src="assets/images/details-03.jpg" alt="" style="border-radius: 23px; margin-bottom: 30px;">
+                      <img src="assets/images/Level33.jpg" alt="" style="border-radius: 23px; margin-bottom: 30px;">
                     </div>
                     <div class="col-lg-12">
                       <p>
@@ -130,9 +130,15 @@
                     </div>
                     <div class="col-lg-12">
                       <div class="main-border-button">
-                        <a href="#">PLay Echos of Destiny Now!</a>
+                        <a href="#">Play Echos of Destiny Now!</a>
                       </div>
                     </div>
+
+                    <div class="col-lg-12">
+                      <div class="main-border-button">
+                          <a href="assets/app-release.apk" download>Descargar Echos Of Destiny Mobile APP</a>
+                      </div>
+                  </div>
                   </div>
                 </div>
               </div>
