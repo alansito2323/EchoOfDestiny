@@ -82,77 +82,67 @@ $conn->close();
           <div class="row">
             <div class="col-lg-8">
               <div class="featured-games header-text">
-                <div class="heading-section">
-                  <h4><em>Meet the</em> Developers</h4>
-                </div>
-                <div class="owl-features owl-carousel">
-                  <div class="item">
-                    <div class="thumb">
-                      <img src="assets/images/TSU TI González Real Alan Gabriel 1121150036 t.jpg" alt="">
-                      <div class="hover-effect">
-                        <h6>Database Developer/Web Developer</h6>
-                      </div>
-                    </div>
-                    <h4>Alan Gonzalez<br><span>Expert in Backend Development</span></h4>
-                    <p>Specializes in building robust backend systems, handling data architecture, and ensuring efficient API integrations.</p>
-                  </div>
-                  <div class="item">
-                    <div class="thumb">
-                      <img src="assets/images/TSU TI González Real Alan Gabriel 1121150036 t.jpg" alt="">
-                      <div class="hover-effect">
-                        <h6>Database Developer/Web Developer</h6>
-                      </div>
-                    </div>
-                    <h4>Alan Gonzalez<br><span>Expert in Backend Development</span></h4>
-                    <p>Specializes in building robust backend systems, handling data architecture, and ensuring efficient API integrations.</p>
-                  </div>
-
-                  <div class="item">
-                    <div class="thumb">
-                      <img src="assets/images/TSU TI González Real Alan Gabriel 1121150036 t.jpg" alt="">
-                      <div class="hover-effect">
-                        <h6>Database Developer/Web Developer</h6>
-                      </div>
-                    </div>
-                    <h4>Alan Gonzalez<br><span>Expert in Backend Development</span></h4>
-                    <p>Specializes in building robust backend systems, handling data architecture, and ensuring efficient API integrations.</p>
-                  </div>
-
-                  <div class="item">
-                    <div class="thumb">
-                      <img src="assets/images/TSU TI González Real Alan Gabriel 1121150036 t.jpg" alt="">
-                      <div class="hover-effect">
-                        <h6>Database Developer/Web Developer</h6>
-                      </div>
-                    </div>
-                    <h4>Alan Gonzalez<br><span>Expert in Backend Development</span></h4>
-                    <p>Specializes in building robust backend systems, handling data architecture, and ensuring efficient API integrations.</p>
-                  </div>
-
-                  <div class="item">
-                    <div class="thumb">
-                      <img src="assets/images/TSU TI González Real Alan Gabriel 1121150036 t.jpg" alt="">
-                      <div class="hover-effect">
-                        <h6>Database Developer/Web Developer</h6>
-                      </div>
-                    </div>
-                    <h4>Alan Gonzalez<br><span>Expert in Backend Development</span></h4>
-                    <p>Specializes in building robust backend systems, handling data architecture, and ensuring efficient API integrations.</p>
-                  </div>
-
-                  <div class="item">
-                    <div class="thumb">
-                      <img src="assets/images/TSU TI González Real Alan Gabriel 1121150036 t.jpg" alt="">
-                      <div class="hover-effect">
-                        <h6>Database Developer/Web Developer</h6>
-                      </div>
-                    </div>
-                    <h4>Alan Gonzalez<br><span>Expert in Backend Development</span></h4>
-                    <p>Specializes in building robust backend systems, handling data architecture, and ensuring efficient API integrations.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
+  <div class="heading-section">
+    <h4><em>Meet the</em> Developers</h4>
+  </div>
+  <div class="owl-features owl-carousel">
+    <!-- Developer 1 -->
+    <div class="item">
+      <div class="thumb">
+        <img src="assets/images/TSU TI González Real Alan Gabriel 1121150036 t.jpg" alt="Alan Gonzalez">
+        <div class="hover-effect">
+          <h6>App and Website Developer</h6>
+        </div>
+      </div>
+      <h4>Alan Gonzalez<br><span>App and Website Developer</span></h4>
+      <p>Responsible for creating the game's website, mobile application, and database.</p>
+    </div>
+    <!-- Developer 2 -->
+    <div class="item">
+      <div class="thumb">
+        <img src="assets/images/raull.jpg" alt="Raul Ramirez">
+        <div class="hover-effect">
+          <h6>Game Developer</h6>
+        </div>
+      </div>
+      <h4>Raul Ramirez<br><span>Game Developer</span></h4>
+      <p>Designed and programmed the enemies within the game.</p>
+    </div>
+    <!-- Developer 3 -->
+    <div class="item">
+      <div class="thumb">
+        <img src="assets/images/ash.jpg" alt="Ashley Ochoa">
+        <div class="hover-effect">
+          <h6>Game Developer</h6>
+        </div>
+      </div>
+      <h4>Ashley Ochoa<br><span>Game Developer</span></h4>
+      <p>Created and designed the game levels.</p>
+    </div>
+    <!-- Developer 4 -->
+    <div class="item">
+      <div class="thumb">
+        <img src="assets/images/Alann.jpg" alt="Alan Portillo">
+        <div class="hover-effect">
+          <h6>Game Developer</h6>
+        </div>
+      </div>
+      <h4>Alan Portillo<br><span>Game Developer</span></h4>
+      <p>Designed and developed the main character.</p>
+    </div>
+    <!-- Developer 5 -->
+    <div class="item">
+      <div class="thumb">
+        <img src="assets/images/Oscar.jpg" alt="Oscar Paez">
+        <div class="hover-effect">
+          <h6>Game Developer</h6>
+        </div>
+      </div>
+      <h4>Oscar Paez<br><span>Game Developer</span></h4>
+      <p>Designed the entire graphical user interface of the game.</p>
+    </div>
+  </div>
+</div>
             <div class="col-lg-4">
                   <div class="top-streamers">
                       <div class="heading-section">
