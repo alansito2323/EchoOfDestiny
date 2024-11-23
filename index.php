@@ -16,6 +16,11 @@
   <meta name="HandheldFriendly" content="true">
   <meta name="mobile-web-app-capable" content="true">
 
+  <!-- Optimización moderna para móviles -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#000000"> <!-- Color de la barra de navegación en móviles -->
+
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-transucent">
   <link rel="apple-touch-icon" href="assets/images/logo1024.jpg">
@@ -251,17 +256,17 @@
   
   <script src="/main.js"></script>
 
-  <script>
-  if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-      navigator.serviceWorker.register('sw.js').then((registration) => {
-        console.log('Service Worker registered with scope:', registration.scope);
-      }).catch((error) => {
-        console.log('Service Worker registration failed:', error);
-      });
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.getRegistration().then((registration) => {
+        if (registration) {
+            console.log('Service Worker ya registrado:', registration.scope);
+        } else {
+            navigator.serviceWorker.register('/sw.js') // Ruta desde la raíz
+                .then((res) => console.log('Service Worker registrado correctamente:', res.scope))
+                .catch((err) => console.error('Error al registrar el Service Worker:', err));
+        }
     });
-  }
-</script>
+}
 
 
 
