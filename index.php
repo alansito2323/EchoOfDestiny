@@ -244,7 +244,6 @@
   </footer>
 
 
-  <script src="vendor/jquery/jquery.min.js"></script>
 
 
   <script src="assets/js/isotope.min.js"></script>
@@ -254,7 +253,6 @@
   <script src="assets/js/custom.js"></script>
 
   
-  <script src="/main.js"></script>
 
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker.getRegistration().then((registration) => {
