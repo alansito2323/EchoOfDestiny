@@ -92,14 +92,9 @@
 
           <div class="most-popular">
             <div class="row">
-              <div class="col-lg-12">
-                <div class="heading-section">
-                  <h4><em>Gallery</em> Explore Our Worlds</h4>
-                </div>
-                <div class="row">
                   <div class="col-lg-3 col-sm-6">
                     <div class="item">
-                      <img src="assets/images/popular-01.jpg" alt="">
+                      <img src="assets/images/__Run.gif" alt="">
                       <h4>Fortnite<br><span>Sandbox</span></h4>
                       <ul>
                         <li><i class="fa fa-star"></i> 4.8</li>
@@ -109,7 +104,7 @@
                   </div>
                   <div class="col-lg-3 col-sm-6">
                     <div class="item">
-                      <img src="assets/images/popular-02.jpg" alt="">
+                      <img src="assets/images/__Run.gif" alt="">
                       <h4>PubG<br><span>Battle S</span></h4>
                       <ul>
                         <li><i class="fa fa-star"></i> 4.8</li>
@@ -119,7 +114,7 @@
                   </div>
                   <div class="col-lg-3 col-sm-6">
                     <div class="item">
-                      <img src="assets/images/popular-03.jpg" alt="">
+                      <img src="assets/images/__Run.gif" alt="">
                       <h4>Dota2<br><span>Steam-X</span></h4>
                       <ul>
                         <li><i class="fa fa-star"></i> 4.8</li>
@@ -129,7 +124,7 @@
                   </div>
                   <div class="col-lg-3 col-sm-6">
                     <div class="item">
-                      <img src="assets/images/popular-04.jpg" alt="">
+                      <img src="assets/images/__Run.gif" alt="">
                       <h4>CS-GO<br><span>Legendary</span></h4>
                       <ul>
                         <li><i class="fa fa-star"></i> 4.8</li>
@@ -142,7 +137,7 @@
                       <div class="row">
                         <div class="col-lg-6 col-sm-6">
                           <div class="item inner-item">
-                            <img src="assets/images/popular-05.jpg" alt="">
+                            <img src="assets/images/__Run.gif" alt="">
                             <h4>Mini Craft<br><span>Legendary</span></h4>
                             <ul>
                               <li><i class="fa fa-star"></i> 4.8</li>
@@ -152,7 +147,7 @@
                         </div>
                         <div class="col-lg-6 col-sm-6">
                           <div class="item">
-                            <img src="assets/images/popular-06.jpg" alt="">
+                            <img src="assets/images/__Run.gif" alt="">
                             <h4>Eagles Fly<br><span>Matrix Games</span></h4>
                             <ul>
                               <li><i class="fa fa-star"></i> 4.8</li>
@@ -165,7 +160,7 @@
                   </div>
                   <div class="col-lg-3 col-sm-6">
                     <div class="item">
-                      <img src="assets/images/popular-07.jpg" alt="">
+                      <img src="assets/images/__Run.gif" alt="">
                       <h4>Warface<br><span>Max 3D</span></h4>
                       <ul>
                         <li><i class="fa fa-star"></i> 4.8</li>
@@ -175,7 +170,7 @@
                   </div>
                   <div class="col-lg-3 col-sm-6">
                     <div class="item">
-                      <img src="assets/images/popular-08.jpg" alt="">
+                      <img src="assets/images/__Run.gif" alt="">
                       <h4>Warcraft<br><span>Legend</span></h4>
                       <ul>
                         <li><i class="fa fa-star"></i> 4.8</li>
@@ -185,8 +180,6 @@
                   </div>
                   
                 </div>
-              </div>
-            </div>
           </div>
 
 <div class="gaming-library">
