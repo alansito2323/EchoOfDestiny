@@ -129,6 +129,12 @@
               <a href="#">Play Echos of Destiny Now!</a>
             </div>
           </div>
+
+           <div class="col-lg-12">
+                      <div class="main-border-button">
+                          <a href="assets/app-release.apk" download>Download Echos Of Destiny Mobile APP</a>
+                      </div>
+                  </div>
         </div>
       </div>
     </div>
