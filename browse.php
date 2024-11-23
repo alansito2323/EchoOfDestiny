@@ -58,7 +58,7 @@
       <div class="col-lg-12">
         <div class="page-content">
 
-                    <div class="row">
+          <div class="row">
             <div class="col-lg-8">
             <div class="featured-games header-text">
               <div class="heading-section">
