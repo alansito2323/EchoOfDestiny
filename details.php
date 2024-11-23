@@ -84,66 +84,56 @@
             </div>
           </div>
 
-          <div class="game-details">
-            <div class="row">
-              <div class="col-lg-12">
-                <h2>Echos of Destiny Details</h2>
+            <div class="game-details">
+  <div class="row">
+    <div class="col-lg-12">
+      <h2>Echos of Destiny Details</h2>
+    </div>
+    <div class="col-lg-12">
+      <div class="content">
+        <div class="row">
+          <!-- Left Info -->
+          <div class="col-lg-6">
+            <div class="left-info">
+              <div class="left">
+                <h4>Echos of Destiny</h4>
+                <span>Metroidvania Adventure</span>
               </div>
-              <div class="col-lg-12">
-                <div class="content">
-                  <div class="row">
-                    <div class="col-lg-6">
-                      <div class="left-info">
-                        <div class="left">
-                          <h4>Echos of Destiny</h4>
-                          <span>Metroidvania</span>
-                        </div>
-                        <ul>
-                          <li><i class="fa fa-star"></i> 4.8</li>
-                          <li><i class="fa fa-download"></i> 2.3M</li>
-                        </ul>
-                      </div>
-                    </div>
-                    <div class="col-lg-6">
-                      <div class="right-info">
-                        <ul>
-                          <li><i class="fa fa-star"></i> 4.8</li>
-                          <li><i class="fa fa-download"></i> 2.3M</li>
-                          <li><i class="fa fa-server"></i> 36GB</li>
-                          <li><i class="fa fa-gamepad"></i> Action</li>
-                        </ul>
-                      </div>
-                    </div>
-                    <div class="col-lg-4">
-                      <img src="assets/images/Level11.jpg" alt="" style="border-radius: 23px; margin-bottom: 30px;">
-                    </div>
-                    <div class="col-lg-4">
-                      <img src="assets/images/Level22.jpg" alt="" style="border-radius: 23px; margin-bottom: 30px;">
-                    </div>
-                    <div class="col-lg-4">
-                      <img src="assets/images/Level33.jpg" alt="" style="border-radius: 23px; margin-bottom: 30px;">
-                    </div>
-                    <div class="col-lg-12">
-                      <p>
-                        Step into a world filled with epic quests and thrilling battles in our immersive adventure game. As a hero, you will journey through mysterious lands, from ancient forests to treacherous dungeons, encountering powerful foes and hidden secrets at every turn. With each challenge, you'll collect valuable items like health potions, enchanted weapons, and rare artifacts to help you on your journey. Master unique abilities, strategize your combat moves, and unlock powerful skills as you fight to restore peace to the kingdom. Your bravery and skill will be tested, but the rewards are boundless for those who dare to face the unknown.
-                      </p>
-                    </div>
-                    <div class="col-lg-12">
-                      <div class="main-border-button">
-                        <a href="#">Play Echos of Destiny Now!</a>
-                      </div>
-                    </div>
-
-                    <div class="col-lg-12">
-                      <div class="main-border-button">
-                          <a href="assets/app-release.apk" download>Descargar Echos Of Destiny Mobile APP</a>
-                      </div>
-                  </div>
-                  </div>
-                </div>
-              </div>
+              <ul>
+                <li><i class="fa fa-gamepad"></i> Engaging Action Gameplay</li>
+                <li><i class="fa fa-map"></i> Expansive Exploration Maps</li>
+                <li><i class="fa fa-clock"></i> 3 levels</li>
+              </ul>
             </div>
           </div>
+          <!-- Right Info -->
+          <div class="col-lg-6">
+            <div class="right-info">
+              <ul>
+              <li><i class="fa fa-child"></i> 8+ Years Recommended</li>
+              <li><i class="fa fa-desktop"></i> PC Platform</li>
+                <li><i class="fa fa-server"></i> 22 MB Storage Required</li>
+                <li><i class="fa fa-users"></i> Multiplayer Supported</li>
+              </ul>
+            </div>
+          </div>
+          <!-- Description -->
+          <div class="col-lg-12">
+            <p>
+              Step into the mesmerizing world of <strong>Echos of Destiny</strong>, where adventure meets strategy! Embark on an epic journey through lush forests, eerie dungeons, and mysterious ruins teeming with secrets. Face dynamic battles against cunning enemies and unlock powerful abilities to overcome challenges. Collect legendary weapons, enchanted artifacts, and rare treasures to customize your hero. Whether you prefer a daring sword duel or mastering magical arts, the game offers endless strategies to restore peace to the realm. Discover what lies beyond the horizon and leave your mark as a true legend!
+            </p>
+          </div>
+          <!-- Play Button -->
+          <div class="col-lg-12">
+            <div class="main-border-button">
+              <a href="#">Play Echos of Destiny Now!</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
         </div>
       </div>
