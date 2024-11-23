@@ -58,74 +58,65 @@
       <div class="col-lg-12">
         <div class="page-content">
 
-          <div class="row">
+                    <div class="row">
             <div class="col-lg-8">
-              <div class="featured-games header-text">
-                <div class="heading-section">
-                  <h4><em>Featured</em> Characters</h4>
+            <div class="featured-games header-text">
+              <div class="heading-section">
+                <h4><em>Featured</em> Abilities</h4>
+              </div>
+              <div class="owl-features owl-carousel">
+                <!-- Fall -->
+                <div class="item">
+                  <div class="thumb">
+                    <img src="assets/images/__Fall.gif" alt="Fall">
+                    <div class="hover-effect">
+                      <h6>Graceful Descent</h6>
+                    </div>
+                  </div>
+                  <h4>Fall<br><span>Safe landings, every time</span></h4>
                 </div>
-                <div class="owl-features owl-carousel">
-                  <div class="item">
-                    <div class="thumb">
-                      <img src="assets/images/__Run.gif" alt="">
-                      <div class="hover-effect">
-                        <h6>2.4K Streaming</h6>
-                      </div>
+                <!-- Jump -->
+                <div class="item">
+                  <div class="thumb">
+                    <img src="assets/images/__Jump.gif" alt="Jump">
+                    <div class="hover-effect">
+                      <h6>Reach New Heights</h6>
                     </div>
-                    <h4>CS-GO<br><span>249K Downloads</span></h4>
                   </div>
-                  <div class="item">
-                    <div class="thumb">
-                      <img src="assets/images/__Attack.gif" alt="">
-                      <div class="hover-effect">
-                        <h6>2.4K Streaming</h6>
-                      </div>
+                  <h4>Jump<br><span>Leap over obstacles</span></h4>
+                </div>
+                <!-- Roll -->
+                <div class="item">
+                  <div class="thumb">
+                    <img src="assets/images/__Roll.gif" alt="Roll">
+                    <div class="hover-effect">
+                      <h6>Quick Evasion</h6>
                     </div>
-                    <h4>Gamezer<br><span>249K Downloads</span></h4>
-                   
                   </div>
-                  <div class="item">
-                    <div class="thumb">
-                      <img src="assets/images/featured-03.jpg" alt="">
-                      <div class="hover-effect">
-                        <h6>2.4K Streaming</h6>
-                      </div>
+                  <h4>Roll<br><span>Dodge and maneuver</span></h4>
+                </div>
+                <!-- Run -->
+                <div class="item">
+                  <div class="thumb">
+                    <img src="assets/images/R.gif" alt="Run">
+                    <div class="hover-effect">
+                      <h6>Unstoppable Speed</h6>
                     </div>
-                    <h4>Island Rusty<br><span>249K Downloads</span></h4>
-                   
                   </div>
-                  <div class="item">
-                    <div class="thumb">
-                      <img src="assets/images/featured-01.jpg" alt="">
-                      <div class="hover-effect">
-                        <h6>2.4K Streaming</h6>
-                      </div>
+                  <h4>Run<br><span>Explore and escape</span></h4>
+                </div>
+                <!-- Hit -->
+                <div class="item">
+                  <div class="thumb">
+                    <img src="assets/images/A.gif" alt="Hit">
+                    <div class="hover-effect">
+                      <h6>Powerful Strikes</h6>
                     </div>
-                    <h4>CS-GO<br><span>249K Downloads</span></h4>
-                   
                   </div>
-                  <div class="item">
-                    <div class="thumb">
-                      <img src="assets/images/featured-02.jpg" alt="">
-                      <div class="hover-effect">
-                        <h6>2.4K Streaming</h6>
-                      </div>
-                    </div>
-                    <h4>Gamezer<br><span>249K Downloads</span></h4>
-                  
-                  </div>
-                  <div class="item">
-                    <div class="thumb">
-                      <img src="assets/images/featured-03.jpg" alt="">
-                      <div class="hover-effect">
-                        <h6>2.4K Streaming</h6>
-                      </div>
-                    </div>
-                    <h4>Island Rusty<br><span>249K Downloads</span></h4>
-                   
-                  </div>
+                  <h4>Hit<br><span>Strike with precision</span></h4>
                 </div>
               </div>
+            </div>
             </div>
             <div class="col-lg-4">
               <div class="top-downloaded">
