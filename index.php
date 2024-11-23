@@ -246,7 +246,7 @@
   <script src="assets/js/custom.js"></script>
 
   
-
+ <script>
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker.getRegistration().then((registration) => {
         if (registration) {
@@ -258,7 +258,7 @@ if ('serviceWorker' in navigator) {
         }
     });
 }
-
+</script>
 
 
   </body>
