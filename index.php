@@ -259,7 +259,7 @@ if ('serviceWorker' in navigator) {
         if (registration) {
             console.log('Service Worker ya registrado:', registration.scope);
         } else {
-            navigator.serviceWorker.register('/sw.js') // Ruta desde la raíz
+            navigator.serviceWorker.register('sw.js') // Ruta desde la raíz
                 .then((res) => console.log('Service Worker registrado correctamente:', res.scope))
                 .catch((err) => console.error('Error al registrar el Service Worker:', err));
         }
