@@ -50,7 +50,7 @@ $conn->close();
   </head>
 <body>
 
-  <header class="header-area header-sticky">
+ <header class="header-area header-sticky">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -81,7 +81,7 @@ $conn->close();
         <div class="page-content">
           <div class="row">
             <div class="col-lg-8">
-              <div class="featured-games header-text">
+            <div class="featured-games header-text">
   <div class="heading-section">
     <h4><em>Meet the</em> Developers</h4>
   </div>
@@ -143,6 +143,8 @@ $conn->close();
     </div>
   </div>
 </div>
+
+            </div>
             <div class="col-lg-4">
                   <div class="top-streamers">
                       <div class="heading-section">
