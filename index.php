@@ -91,96 +91,68 @@
           </div>
 
           <div class="most-popular">
-            <div class="row">
-                  <div class="col-lg-3 col-sm-6">
-                    <div class="item">
-                      <img src="assets/images/__Run.gif" alt="">
-                      <h4>Fortnite<br><span>Sandbox</span></h4>
-                      <ul>
-                        <li><i class="fa fa-star"></i> 4.8</li>
-                        <li><i class="fa fa-download"></i> 2.3M</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-sm-6">
-                    <div class="item">
-                      <img src="assets/images/__Run.gif" alt="">
-                      <h4>PubG<br><span>Battle S</span></h4>
-                      <ul>
-                        <li><i class="fa fa-star"></i> 4.8</li>
-                        <li><i class="fa fa-download"></i> 2.3M</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-sm-6">
-                    <div class="item">
-                      <img src="assets/images/__Run.gif" alt="">
-                      <h4>Dota2<br><span>Steam-X</span></h4>
-                      <ul>
-                        <li><i class="fa fa-star"></i> 4.8</li>
-                        <li><i class="fa fa-download"></i> 2.3M</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-sm-6">
-                    <div class="item">
-                      <img src="assets/images/__Run.gif" alt="">
-                      <h4>CS-GO<br><span>Legendary</span></h4>
-                      <ul>
-                        <li><i class="fa fa-star"></i> 4.8</li>
-                        <li><i class="fa fa-download"></i> 2.3M</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="col-lg-6">
-                    <div class="item">
-                      <div class="row">
-                        <div class="col-lg-6 col-sm-6">
-                          <div class="item inner-item">
-                            <img src="assets/images/__Run.gif" alt="">
-                            <h4>Mini Craft<br><span>Legendary</span></h4>
-                            <ul>
-                              <li><i class="fa fa-star"></i> 4.8</li>
-                              <li><i class="fa fa-download"></i> 2.3M</li>
-                            </ul>
-                          </div>
-                        </div>
-                        <div class="col-lg-6 col-sm-6">
-                          <div class="item">
-                            <img src="assets/images/__Run.gif" alt="">
-                            <h4>Eagles Fly<br><span>Matrix Games</span></h4>
-                            <ul>
-                              <li><i class="fa fa-star"></i> 4.8</li>
-                              <li><i class="fa fa-download"></i> 2.3M</li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-sm-6">
-                    <div class="item">
-                      <img src="assets/images/__Run.gif" alt="">
-                      <h4>Warface<br><span>Max 3D</span></h4>
-                      <ul>
-                        <li><i class="fa fa-star"></i> 4.8</li>
-                        <li><i class="fa fa-download"></i> 2.3M</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-sm-6">
-                    <div class="item">
-                      <img src="assets/images/__Run.gif" alt="">
-                      <h4>Warcraft<br><span>Legend</span></h4>
-                      <ul>
-                        <li><i class="fa fa-star"></i> 4.8</li>
-                        <li><i class="fa fa-download"></i> 2.3M</li>
-                      </ul>
-                    </div>
-                  </div>
-                  
-                </div>
-          </div>
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="heading-section" style="text-align: center; margin-bottom: 20px;">
+        <h4>
+          <em>Gallery</em> Explore Our Characters
+        </h4>
+      </div>
+      <div class="row" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+        <!-- Card 1: Alaric -->
+        <div class="item" style="width: 200px; text-align: center; border: 1px solid #444; border-radius: 10px; padding: 15px; background-color: #1e1e2f; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+          <img src="assets/images/__Run.gif" alt="Alaric" style="width: 100%; border-radius: 5px; margin-bottom: 10px;">
+          <h4 style="color: #ffffff;">Alaric</h4>
+          <p style="font-size: 0.9em; color: #bbbbbb;">Guardian of the Seal</p>
+          <ul style="list-style: none; padding: 0; color: #ffffff; font-size: 0.9em;">
+            <li><i class="fa fa-star" style="color: gold;"></i> The chosen protector</li>
+            <li><i class="fa fa-shield" style="color: lightblue;"></i> Defender of Khaezar</li>
+          </ul>
+        </div>
+        <!-- Card 2: Skeletons -->
+        <div class="item" style="width: 200px; text-align: center; border: 1px solid #444; border-radius: 10px; padding: 15px; background-color: #1e1e2f; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+          <img src="assets/images/Eskeleto.jpg" alt="Skeletons" style="width: 100%; border-radius: 5px; margin-bottom: 10px;">
+          <h4 style="color: #ffffff;">Skeletons</h4>
+          <p style="font-size: 0.9em; color: #bbbbbb;">Undead Warriors</p>
+          <ul style="list-style: none; padding: 0; color: #ffffff; font-size: 0.9em;">
+            <li><i class="fa fa-skull" style="color: grey;"></i> Minions of destruction</li>
+            <li><i class="fa fa-crossbones" style="color: grey;"></i> Endless swarm</li>
+          </ul>
+        </div>
+        <!-- Card 3: Necromancers -->
+        <div class="item" style="width: 200px; text-align: center; border: 1px solid #444; border-radius: 10px; padding: 15px; background-color: #1e1e2f; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+          <img src="assets/images/Vill1_1.gif" alt="Necromancers" style="width: 100%; border-radius: 5px; margin-bottom: 10px;">
+          <h4 style="color: #ffffff;">Necromancers</h4>
+          <p style="font-size: 0.9em; color: #bbbbbb;">Mages of Death</p>
+          <ul style="list-style: none; padding: 0; color: #ffffff; font-size: 0.9em;">
+            <li><i class="fa fa-magic" style="color: purple;"></i> Masters of sorcery</li>
+            <li><i class="fa fa-book" style="color: lightgreen;"></i> Dark spellcasters</li>
+          </ul>
+        </div>
+        <!-- Card 4: Dark Demons -->
+        <div class="item" style="width: 200px; text-align: center; border: 1px solid #444; border-radius: 10px; padding: 15px; background-color: #1e1e2f; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+          <img src="assets/images/vill2.gif" alt="Dark Demons" style="width: 100%; border-radius: 5px; margin-bottom: 10px;">
+          <h4 style="color: #ffffff;">Dark Demons</h4>
+          <p style="font-size: 0.9em; color: #bbbbbb;">Chaos Beasts</p>
+          <ul style="list-style: none; padding: 0; color: #ffffff; font-size: 0.9em;">
+            <li><i class="fa fa-fire" style="color: orange;"></i> Spawns of chaos</li>
+            <li><i class="fa fa-demon" style="color: red;"></i> Infernal rage</li>
+          </ul>
+        </div>
+        <!-- Card 5: Cursed Warrior -->
+        <div class="item" style="width: 200px; text-align: center; border: 1px solid #444; border-radius: 10px; padding: 15px; background-color: #1e1e2f; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+          <img src="assets/images/boss.gif" alt="Cursed Warrior" style="width: 100%; border-radius: 5px; margin-bottom: 10px;">
+          <h4 style="color: #ffffff;">Cursed Warrior</h4>
+          <p style="font-size: 0.9em; color: #bbbbbb;">Final Boss</p>
+          <ul style="list-style: none; padding: 0; color: #ffffff; font-size: 0.9em;">
+            <li><i class="fa fa-crown" style="color: gold;"></i> The ultimate foe</li>
+            <li><i class="fa fa-sword" style="color: silver;"></i> Cursed by darkness</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="gaming-library">
   <div class="col-lg-12">
